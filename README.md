@@ -1,6 +1,12 @@
-## 🙈 Hey World! I'm Mason Dierkes, an iOS Developer. [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-I like building things that are fun and exciting.
+<a href="https://x.com/masondierkes">
+<img src="https://raw.githubusercontent.com/mjdierkes/mjdierkes/master/Assets/X.svg" width="40">
+</a>
+<a href="https://www.linkedin.com/in/mason-dierkes">
+<img src="https://raw.githubusercontent.com/mjdierkes/mjdierkes/master/Assets/LinkedIn.svg" width="40">
+</a>
 
 
-[linkedin]: https://www.linkedin.com/in/mason-dierkes/
+<a href="#"><img src="https://komarev.com/ghpvc/?username=mjdierkes&color=5BBF0F&label=Profile%20Views"></a>
+
+---
+
