@@ -10,3 +10,7 @@
 
 ---
 
+[Resume](https://github.com/mjdierkes/mjdierkes/blob/main/resume.pdf)
+
+
+
